@@ -1,0 +1,9 @@
+commandlib
+hitchrun
+pelican
+ipython
+mkdocs==0.16.3
+mkdocs-bootswatch
+patool
+pypandoc
+pathquery

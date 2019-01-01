@@ -9,7 +9,7 @@
       <div class="title">
         {{ $url := replace .Permalink ( printf "%s" .Site.BaseURL) "" }}
         {{ $.Scratch.Add "path" .Site.BaseURL }}
-        <a style="display:inline;" href="/">hitchdev</a>
+        <a style="display:inline;" href="/">micromethodology.com</a>
         {{ range $index, $element := split $url "/" }}
           {{ $.Scratch.Add "path" $element }}
             {{ if ne $element "" }}

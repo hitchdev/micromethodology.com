@@ -19,8 +19,8 @@ PygmentsStyle = "fruity"
 	copyright = "Copyright (C) 2018"
 
 	# Repository
-# 	provider = "GitHub"
-# 	repo_url = "https://github.com/hitchdev/"
+	provider = "GitHub"
+	repo_url = "https://github.com/hitchdev/"
 
 	version = ""
 	logo = "images/logo.png"
